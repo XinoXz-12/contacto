@@ -4,10 +4,10 @@
  */
 
 // Dirección de correo que aparerá en el De
-$from = 'Servidor AWS <francis@francisperea.org>';
+$from = 'Servidor AWS <XXX@francisperea.org>';
 
 // Dirección de correo a la que enviar los mensajes
-$sendTo = 'Francis Perea <francis@iesjuandelacierva.edu.es>';
+$sendTo = 'Francis Perea <XXX@iesjuandelacierva.edu.es>';
 
 // Asunto de los correos
 $subject = 'Mensaje del Formulario de Contacto';

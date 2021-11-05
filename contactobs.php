@@ -4,10 +4,10 @@
  */
 
 // Dirección de correo que aparerá en el De
-$from = 'Servidor AWS <francis@francisperea.org>';
+$from = 'Servidor AWS <XXX@francisperea.org>';
 
 // Dirección de correo a la que enviar los mensajes
-$sendTo = 'Francis Perea <francis@iesjuandelacierva.edu.es>';
+$sendTo = 'Francis Perea <XXX@iesjuandelacierva.edu.es>';
 
 // Asunto de los correos
 $subject = 'Mensaje del Formulario de Contacto';
@@ -29,7 +29,7 @@ $okMessage = <<<PAGINAOK
  
   <body>
     <h1>Mensaje enviado correctamente. Gracias. Nos pondremos en contacto lo antes posible</h1>
-    <a class="btn btn-primary" href="http://aw2021.duckdns.org/contacto/indexbs.html">Volver</button>
+    <a class="btn btn-primary" href="http://XXX.duckdns.org/contacto/indexbs.html">Volver</button>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script src="js/scripts.js"></script>
   </body>
@@ -49,7 +49,7 @@ $errorMessage = <<<PAGINAMAL
  
   <body>
     <h1>Lo sentimos pero tu mensaje no  se ha podido enviar. Vuelve a intentarlo pasados unos minutos.</h1>
-    <a class="btn btn-primary" href="http://aw2021.duckdns.org/contacto/indexbs.html">Volver</button>
+    <a class="btn btn-primary" href="http://XXX.duckdns.org/contacto/indexbs.html">Volver</button>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script src="js/scripts.js"></script>
   </body>
